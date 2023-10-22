@@ -1,1 +1,1 @@
-# Educational_projects
+# API queries
